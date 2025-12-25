@@ -1,2 +1,4 @@
 # merge resolved conlict
 like tiger
+
+push를 확인해보자
