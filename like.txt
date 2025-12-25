@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+# merge resolved conlict
 like tiger
-=======
-tiger like
->>>>>>> tiger
