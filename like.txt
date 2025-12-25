@@ -2,3 +2,7 @@
 like tiger
 
 push를 확인해보자
+
+push는 확인되었다!!!
+
+pull 을 확인해보자
